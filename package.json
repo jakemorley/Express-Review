@@ -1,0 +1,17 @@
+{
+  "name": "expressreview",
+  "version": "1.0.0",
+  "description": "Review of Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake Morley",
+  "license": "ISC",
+  "dependencies": {
+	"body-parser": "*",
+	"express": "*",
+	"jade": "*",
+	"nodemailer": "*"
+  }
+}
